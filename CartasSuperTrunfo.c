@@ -36,50 +36,50 @@ int main() {
     //inicia o cadastro da primeira carta
     printf("Vamos cadastrar a primeira cidade!\n");
     printf("Digite a letra da primeira cidade. Deve ser uma letra maiúscula entre A e H: \n");
-    scanf("%c", &estado1);
+    scanf(" %c", &estado1);
 
     printf("Digite o código da primeira cidade. Este código deve ser um número inteiro de 1 a 4: \n");
-    scanf("%d", &codigo1);
+    scanf(" %d", &codigo1);
 
     printf("Digite o nome da primeira cidade. Este nome não pode conter espaços: \n");
-    scanf("%s", &nome1);
+    scanf(" %s", nome1);
 
     printf("Digite o tamanho da população: \n");
-    scanf("%d", &populacao1);
+    scanf(" %d", &populacao1);
 
     printf("Digite a área da cidade: \n");
-    scanf("%f", &area1);
+    scanf(" %f", &area1);
 
     printf("Digite o PIB da cidade: \n");
-    scanf("%f", &pib1);
+    scanf(" %f", &pib1);
 
     printf("Digite o número de pontos turísticos: \n");
-    scanf("%d", &pontosTuristicos1);
+    scanf(" %d", &pontosTuristicos1);
 
     printf("\n");
     
     //Inicia o cadastro da segunda carta 
     printf("Vamos cadastrar a segunda cidade!\n");
     printf("Digite a letra da primeira cidade. Deve ser uma letra maiúscula entre A e H: \n");
-    scanf("%c", &estado2);
+    scanf(" %c", &estado2);
 
     printf("Digite o código da primeira cidade. Este código deve ser um número inteiro de 1 a 4: \n");
-    scanf("%d", &codigo2);
+    scanf(" %d", &codigo2);
 
     printf("Digite o nome da primeira cidade. Este nome não pode conter espaços: \n");
-    scanf("%s", &nome2);
+    scanf(" %s", &nome2);
 
     printf("Digite o tamanho da população: \n");
-    scanf("%d", &populacao2);
+    scanf(" %d", &populacao2);
 
     printf("Digite a área da cidade: \n");
-    scanf("%f", &area2);
+    scanf(" %f", &area2);
 
     printf("Digite o PIB da cidade: \n");
-    scanf("%f", &pib2);
+    scanf(" %f", &pib2);
 
     printf("Digite o número de pontos turísticos: \n");
-    scanf("%d", &pontosTuristicos2);
+    scanf(" %d", &pontosTuristicos2);
 
     printf("\n");
 
