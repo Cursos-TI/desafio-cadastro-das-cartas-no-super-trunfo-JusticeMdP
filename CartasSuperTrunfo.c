@@ -84,7 +84,7 @@ int main() {
     printf("\n");
 
     //Inicia a exibição da primeira carta
-    printf("Carta número 1.\n")
+    printf("Carta número 1.\n");
     printf("Estado: %c\n", estado1);
     printf("Código da Carta: %c0%d\n", estado1, codigo1);
     printf("Nome da Cidade: %s\n", nome1);
@@ -96,7 +96,7 @@ int main() {
     printf("\n");
 
     //inicia a segunda carta
-    printf("Carta número 2.\n")
+    printf("Carta número 2.\n");
     printf("Estado: %c\n", estado2);
     printf("Código da Carta: %c0%d\n", estado2, codigo2);
     printf("Nome da Cidade: %s\n", nome2);
