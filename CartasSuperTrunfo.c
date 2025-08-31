@@ -67,7 +67,7 @@ int main() {
     scanf(" %d", &codigo2);
 
     printf("Digite o nome da primeira cidade. Este nome não pode conter espaços: \n");
-    scanf(" %s", &nome2);
+    scanf(" %s", nome2);
 
     printf("Digite o tamanho da população: \n");
     scanf(" %d", &populacao2);
